@@ -1,29 +1,29 @@
-# UDEMX kft. felvételi feladatai 
+# UDEMX kft. felvételi feladatai / admission duties
 
-## szoftverfejlesztő mérnökök vagy gyakornokok számára
+## szoftverfejlesztő mérnökök vagy gyakornokok számára / for software development engineers or trainees
 
-A repository-ban megtalálható cégünk teljes portfóliójára vonatkozó felvételi feladatsor.
+A repository-ban megtalálhatóak cégünk teljes portfóliójára vonatkozó felvételi feladatsorok. / In the repository, you can find the hiring tasks for the entire portfolio of our company.
 
-<u>Amennyiben konkrét pozícióra jelentkeznél, kérünk az ahhoz tartozó feladatot old meg!</u>
+<u>Amennyiben konkrét pozícióra jelentkeznél, kérünk az ahhoz tartozó feladatot old meg! / If you would like to apply for a specific position, please solve the corresponding task!</u>
 
-## :woman_student::man_student: Gyakornokok számára
-:grey_exclamation: Te döntöd  el, hogy cégünk mely területére szeretnél jelentkezni.:grey_exclamation:
+## :woman_student::man_student: Gyakornokok számára / For trainees
+:grey_exclamation: Te döntöd  el, hogy cégünk mely területére szeretnél jelentkezni. / You decide which area of our company you want to apply for.:grey_exclamation:
 
-Bátran válassz a feladatok közül és azt add be, ami a szívednek kedves!
+Bátran válassz a feladatok közül és azt add be, ami a szívednek kedves! / Feel free to choose from among the tasks and submit the one that is dear to your heart!
 
-## :information_source: Pár szó az egyes területekről amely megtalálható :
+## :information_source: Pár szó az egyes területekről amely megtalálható / A few words about the individual areas that can be found :
 
 * ### :one: [**DevOps, SecOps:**](./devops-secops) 
 
-  Ezen a területen olyan szakmebereink dolgoznak akik ami kor korszerű technológiáival építenek és működtetnek környezeteket. 
+  Ezen a területen olyan szakembereink dolgoznak akik amikor korszerű technológiáival építenek és működtetnek környezeteket. / Our professionals work in this area, building and operating environments with the latest technologies. 
 
-  * Használt technológiák, környezetek
+  * Használt technológiák, környezetek / Used technologies, environments
     * [Kubernetes](https://kubernetes.io/), 
     * [Ansible](https://www.ansible.com/)
     * [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/en-us/), [AliCloud](https://www.alibabacloud.com/)
-    * Linux és network management
+    * Linux and network management
     * [pfSense](https://www.pfsense.org/)
-    * stb.
+    * etc.
 
 * #### :two: [**Mobile development**](./mobile-development)
 
@@ -55,5 +55,4 @@ Bátran válassz a feladatok közül és azt add be, ami a szívednek kedves!
 
   * [Vue.JS](https://vuejs.org/) (3.0+)
   * [Angular](https://angular.io/) (11+)
-
 
