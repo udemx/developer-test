@@ -27,7 +27,7 @@ Pontozas súlyozása az alábbiak szerint alakul:
 A feladat egy debian 11 telepítése, user felvétele és alap programok telepítése és a folyamat **dokumentálása** egy _README.MD_ fájlba. A file-t ide a REPO-ba kell elkészíteni.
 
 Feladatok:
-  * Debian 9 telepítése
+  * Debian 11 telepítése
     * root jelszó: Alma1234
     * saját user létrehozása
     * **EXTRA:** a `/opt` és a `/tmp` külön partícióra kerüljön
