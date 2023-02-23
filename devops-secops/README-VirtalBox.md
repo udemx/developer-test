@@ -24,7 +24,7 @@ Pontozas súlyozása az alábbiak szerint alakul:
 
 #### Linux rendszer telepítése `max. 150 pont`
 ##### Feladat leírása
-A feladat egy debian 9 telepítése, user felvétele és alap programok telepítése és a folyamat **dokumentálása** egy _README.MD_ fájlba. A file-t ide a REPO-ba kell elkészíteni.
+A feladat egy debian 11 telepítése, user felvétele és alap programok telepítése és a folyamat **dokumentálása** egy _README.MD_ fájlba. A file-t ide a REPO-ba kell elkészíteni.
 
 Feladatok:
   * Debian 9 telepítése
