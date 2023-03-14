@@ -4,10 +4,10 @@
 * **A projektet egy publikus github repository-ba várjuk tőled.**
 
 A feladatot tetszőleges virtualizációs megoldással tudod elkészíteni:
-    * Linux KVM - preferált
-    * VirtualBox
-    * Vmware Workstation
-    * etc.
+  * Linux KVM - preferált
+  * VirtualBox
+  * Vmware Workstation
+  * etc.
 ## Megvalósítandó feladat leírása
 ### Linux "Server" beállítása
 A cél egy debian alapú szerver kialakítása manuális telepítéssel
