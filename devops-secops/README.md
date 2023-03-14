@@ -27,7 +27,7 @@ A pontozas súlyozása az alábbiak szerint alakul:
 **A feladat megoldások dokumentálása és feltöltése**:
 
   * Githubon egy `gist` létrehozása és oda külön-külön a megírt scriptek, config snippetek, illetve a kiadott parancsok feltöltése
-  * Githubon egy repó készítése és oda a szükséges file-ok feltöltése
+  * Githubon egy repó készítése és oda a szükséges file-ok feltöltése (vagrantfile, ansible playbook, stb.)
 
 #### Linux rendszer telepítése `max. 150 pont`
 ##### Feladat leírása
