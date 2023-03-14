@@ -26,8 +26,8 @@ A pontozas súlyozása az alábbiak szerint alakul:
 
 **A feladat megoldások dokumentálása és feltöltése**:
 
-  * Githubon egy `gist` létrehozása és oda külön-külön feltölteni a scripteket, config snippeteket, illetve a kiadott parancsokat
-  * Githubon (vagy egyéb SCM-ben) egy repó készítése és ebbe feltölteni a különböző file-okat
+  * Githubon egy `gist` létrehozása és oda külön-külön a megírt scriptek, config snippetek, illetve a kiadott parancsok feltöltése
+  * Githubon egy repó készítése és oda a szükséges file-ok feltöltése
 
 #### Linux rendszer telepítése `max. 150 pont`
 ##### Feladat leírása
@@ -130,7 +130,7 @@ Extra-extra feladatok:
 * **EXTRA:** a feladat megoldása pipeline vagy jenkinsfile segítségével, nem sima freestyle job-ként
 
 #### Automatizáció feladat `max. 150 pont`
-
+##### Feladat leírása:
 A fentebb leírtak elkészítése tetszőlegesen kiválasztott `configuration management` / IaC tool segítségével.
 
 1. A Server telepítés automatizálása pl. `Vagrant` segítségével
