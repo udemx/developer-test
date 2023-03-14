@@ -93,7 +93,7 @@ Extra-extra feladatok:
   - Tetszőleges alkalmazás (pl: github laravel demo project) életrekeltése docker compose-al külön db-vel és web kiszolgálóval.
   - +1: vim-ből kilépés parancsa :) :) :)
 
-#### CI-CD Extra feladat plusz pontokért `max. 150 pont`
+#### CI-CD feladat `max. 150 pont`
 ##### Feladat leírása:
   * Jenkins szerver telepítése és beállítása
   * Pivát Docker registry létrehozása webes ui felülettel
@@ -129,7 +129,7 @@ Extra-extra feladatok:
 
 * **EXTRA:** a feladat megoldása pipeline vagy jenkinsfile segítségével, nem sima freestyle job-ként
 
-#### Automatizáció Extra feladat plusz pontokért `max. 150 pont`
+#### Automatizáció feladat `max. 150 pont`
 
 A fentebb leírtak elkészítése tetszőlegesen kiválasztott `configuration management` / IaC tool segítségével.
 
