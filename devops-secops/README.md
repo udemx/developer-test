@@ -80,7 +80,7 @@ Feladatok:
 #### Nehezebb feladatok plusz pontokért `max. 150 pont`
 ##### Feladat leírása
 Itt olyan feladatok találhatóak, melyek elkészítése nem kézenfekvő. Részpontszám itt is van.
-  - Iptables beállítása,
+  - Iptables beállítása
       - csak az alkalmazáshoz szükséges portok legyenek nyitva a VM-en.
   - Írni egy-egy külön shell scriptet 
       - egy script, ami mysql dump-ot készít az aktuális dátummal elnevezett mappába, majd ezt beállítani cron-ban, hogy naponta hajnali 2-kor fusson le.
@@ -89,7 +89,7 @@ Itt olyan feladatok találhatóak, melyek elkészítése nem kézenfekvő. Rész
       - A `/proc/loadavg`-ból a 15 perces érték kiíratása
       - Egy adott fájlban az alábbi sztringet `<title>About the Web</title>` cseréljük le a`<title>` `Title:` -ra és a `</title>`-t ne bántsuk.
 
-  - Docker project feladat:
+  - Docker project feladat
      - Tetszőleges alkalmazás (pl: github laravel demo project) életrekeltése docker compose-al külön db-vel és web kiszolgálóval.
      - +1: vim-ből kilépés parancsa :) :) :)
 
