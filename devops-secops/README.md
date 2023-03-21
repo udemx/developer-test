@@ -77,7 +77,7 @@ Feladatok:
     * udemx@udemx.eu legyen a default user
 	* **EXTRA1:** ssh-kulcs alapú git elérés beállítása
 
-#### Extra feladatok plusz pontokért `max. 150 pont`
+#### Nehezebb feladatok plusz pontokért `max. 150 pont`
 ##### Feladat leírása
 Itt olyan feladatok találhatóak, melyek elkészítése nem kézenfekvő. Részpontszám itt is van.
   - Iptables beállítása,
@@ -89,9 +89,9 @@ Itt olyan feladatok találhatóak, melyek elkészítése nem kézenfekvő. Rész
       - A `/proc/loadavg`-ból a 15 perces érték kiíratása
       - Egy adott fájlban az alábbi sztringet `<title>About the Web</title>` cseréljük le a`<title>` `Title:` -ra és a `</title>`-t ne bántsuk.
 
-Extra-extra feladatok:
-  - Tetszőleges alkalmazás (pl: github laravel demo project) életrekeltése docker compose-al külön db-vel és web kiszolgálóval.
-  - +1: vim-ből kilépés parancsa :) :) :)
+  - Docker project feladat:
+     - Tetszőleges alkalmazás (pl: github laravel demo project) életrekeltése docker compose-al külön db-vel és web kiszolgálóval.
+     - +1: vim-ből kilépés parancsa :) :) :)
 
 #### CI-CD feladat `max. 150 pont`
 ##### Feladat leírása:
