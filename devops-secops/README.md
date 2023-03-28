@@ -62,7 +62,7 @@ A feladat, hogy telepítsük az alábbi szolgáltatásokat:
 A feladat elvégezhető az OS-en való telepítéssel, vagy akár konténerek futtatásával. ;)
 
 Feladatok:
-  * NGINX HTTPD telepítése
+  * NGINX webszerver telepítése
     * 80-as porton
       * **EXTRA:** HTTPS beállítása, self signed cert-el
 	* `Hello UDEMX!` legyen a főoldalon kiírva.
