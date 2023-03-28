@@ -71,7 +71,7 @@ Feladatok:
 	* **EXTRA:** `udemx` user és hozzá `udemx-db` létrehozása arra a `udemx` user jogosultságának beállítása.
   * Docker telepítése
     * hello-world container futtatáse
-    * **EXTRA1:** minden egyéb feladat (MariaDB, HTTPD) konténerben fusson
+    * **EXTRA1:** minden egyéb feladat (MariaDB, NGINX) konténerben fusson
     * **EXTRA2:** minden kontner automatikusan elindul a virtualis géppel
   * Git telepítése
     * udemx@udemx.eu legyen a default user
