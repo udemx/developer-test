@@ -85,9 +85,9 @@ Itt olyan feladatok találhatóak, melyek elkészítése nem kézenfekvő. Rész
   - Írni egy-egy külön shell scriptet 
       - egy script, ami mysql dump-ot készít az aktuális dátummal elnevezett mappába, majd ezt beállítani cron-ban, hogy naponta hajnali 2-kor fusson le.
       - a 3 legutoljára módosított fájl listázása a`/var/log` mappából a  `mod-<DATE>.out` fájlba
-      - 5 napon belül módosított fájlok listázása a `/var/log/*` mappákból rekurzívan a  `last_five-<DATE>` fájlba
-      - A `/proc/loadavg`-ból a 15 perces érték kiíratása
-      - Egy adott fájlban az alábbi sztringben `<title>About the Web</title>` cseréljük le a`<title>`-t `Title:` -ra és a `</title>`-t ne bántsuk.
+      - 5 napon belül módosított fájlok listázása a `/var/log/*` mappákból rekurzívan a  `last_five-<DATE>.out` fájlba
+      - A `/proc/loadavg`-ból a 15 perces érték kiíratása a `loadavg-<DATE>.out` fájlba
+      - Az NGINX default konfigurációs fájljában az alábbi sztringben `<title>Welcome to nginx!</title>` cseréljük le a`<title>`-t `Title:` -ra és a `</title>`-t ne bántsuk.
 
   - Docker project feladat
      - Tetszőleges alkalmazás (pl: github laravel demo project) életrekeltése docker compose-al külön db-vel és web kiszolgálóval.
@@ -140,3 +140,5 @@ A fentebb leírtak elkészítése tetszőlegesen kiválasztott `configuration ma
 Feladat beadása:
 
 Az elkészült Vagrantfile és Ansible playbook feltöltése a git repository-ba
+
+A cél a repository klónozása után egy 
