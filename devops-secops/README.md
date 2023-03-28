@@ -55,7 +55,7 @@ Feladatok:
 #### Kiegészítő szolgáltatások telepítése `max. 150 pont`
 ##### Feladat leírása
 A feladat, hogy telepítsük az alábbi szolgáltatásokat:
-  - NGINX HTTPD
+  - NGINX
   - MariaDB
   - Docker
   - Git
