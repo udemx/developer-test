@@ -134,11 +134,15 @@ Itt olyan feladatok találhatóak, melyek elkészítése nem kézenfekvő. Rész
 A fentebb leírtak elkészítése tetszőlegesen kiválasztott `configuration management` / IaC tool segítségével.
 
 1. A Server telepítés automatizálása pl. `Vagrant` segítségével
-2. A különböző alaklamzaások telepítése, konfigurálás, illetve a scriptek létrehozása `ansible` segítségével
+2. A különböző alakalmazások telepítése, konfigurálás, illetve a scriptek létrehozása `ansible` segítségével
 3. A CI/CD feladat megoldása `ansible` segítésével
+   **EXTRA:** Jenkins automatizált configurálása `ansible` segítségével a manuálisan elkészített config alapján
+
+A cél, hogy a repository klónozása után egy vagrant up parancs kiadását követően a fenti feladatok automatikusan valósuljanak meg az alábbi formában:
+ * OS, alkalmazások és a szükséges dependenciák telepítése
+ * szükséges konfigurációk beállítása (sshd, fail2ban, mysql, nginx, stb)
+ * scriptek futtatása és a .out file-ok létrehozása a /opt/scripts mappába
+ * CI/CD környezet telepítése (+ EXTRA: automatizált config)
 
 Feladat beadása:
-
-Az elkészült Vagrantfile és Ansible playbook feltöltése a git repository-ba
-
-A cél a repository klónozása után egy 
+Az elkészült `vagrantfile`, `ansible` playbook és egyéb configok feltöltése a git repository-ba.
